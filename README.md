@@ -12,7 +12,8 @@ This project focuses on migrating Company ABC's PHP-based website and MySQL data
 - **Objective**: Ensure high availability with Auto Scaling enabled for the website.
 
 ## 🛠️ Solution Architecture
-(png/Untitled Diagram.png)  
+![Architecture](https://github.com/user-attachments/assets/754c4593-1af7-41d9-8310-69cfad32b931)
+
 
 ### Key AWS Services Used
 - **EC2**: Hosts the PHP-based website.
